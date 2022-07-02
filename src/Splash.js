@@ -18,6 +18,7 @@ import BlogRtlPage from "./pages/blog-rtl";
 import BlogPost from "./pages/blog-post";
 import BlogRtlPost from "./pages/blog-post-rtl";
 import HomeIndex from "./HomeIndex";
+import App from "./App";
 
 export const overlayAnimation = () => {
   const tl = gsap.timeline({
@@ -68,6 +69,7 @@ function Splash() {
             </Route>
 
             <Route path="/home" component={HomeIndex} />
+              <Route path="/sample" component={App} />
 
             <Route path="*">
               <Redirect to="/home" />

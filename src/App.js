@@ -63,10 +63,10 @@ function App() {
         <Switch>
           {/* <ThemePanel /> */}
           <Route exact path="/">
-            <Redirect to="/home" />
+            <Redirect to="/sample" />
           </Route>
 
-          <Route path="/home" component={HomePage} />
+          <Route path="/sample" component={HomePage} />
           <Route path="/home-video" component={HomeVideoPage} />
           <Route path="/home-particles" component={HomeParticlePage} />
           <Route path="/home-bgcolor" component={HomeColorPage} />
@@ -81,7 +81,7 @@ function App() {
           <Route path="/blog-post-rtl" component={BlogRtlPost} />
 
           <Route path="*">
-            <Redirect to="/home" />
+            <Redirect to="/sample" />
           </Route>
         </Switch>
       </BrowserRouter>

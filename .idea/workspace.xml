@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80d68707-37d7-4142-8384-e531860b24de" name="Default Changelist" comment="">
+    <list default="true" id="80d68707-37d7-4142-8384-e531860b24de" name="Default Changelist" comment="edit README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeIndex.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeIndex.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Splash.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Splash.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/About.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Hero.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Hero.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -34,6 +40,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\themeforest-1PrQgOrE-patrick-personal-cv-vcard-react-template\patrick\src\components" />
       <recent name="C:\Users\Administrator\Desktop\themeforest-1PrQgOrE-patrick-personal-cv-vcard-react-template\patrick\public\images" />
       <recent name="C:\Users\Administrator\Desktop\themeforest-1PrQgOrE-patrick-personal-cv-vcard-react-template\patrick\public" />
       <recent name="C:\Users\Administrator\Desktop\themeforest-1PrQgOrE-patrick-personal-cv-vcard-react-template\patrick\src" />
@@ -69,8 +76,23 @@
       <option name="presentableId" value="Default" />
       <updated>1656661193327</updated>
       <workItem from="1656661197583" duration="19000" />
-      <workItem from="1656661220374" duration="6704000" />
+      <workItem from="1656661220374" duration="10696000" />
     </task>
+    <task id="LOCAL-00001" summary="edit README.md">
+      <created>1656672546508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656672546508</updated>
+    </task>
+    <task id="LOCAL-00002" summary="edit README.md">
+      <created>1656672579108</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656672579108</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,5 +108,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="edit README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit README.md" />
   </component>
 </project>

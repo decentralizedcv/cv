@@ -162,8 +162,8 @@ const About = () => {
                         <i className="icon la la-download"></i>Download CV
                       </span>
                     </a>
-                    <a href="https://github.com/" target="_blank" rel="noreferrer">
-                      <i className="icon la la-github"></i>
+                    <a target="_blank" rel="noreferrer" href="https://github.com/decentralizedcv/cv">
+                      <span className="icon la la-github"></span>
                     </a>
                     <a href="https://stack-overflow.com/" target="_blank" rel="noreferrer">
                       <i className="icon la la-stack-overflow"></i>

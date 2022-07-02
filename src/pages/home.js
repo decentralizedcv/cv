@@ -10,6 +10,7 @@ import Contact from "../components/Contact";
 import Work from "../components/Work";
 import { overlayAnimation } from "../App";
 import menu from "../data/menu";
+import SampleHero from "../components/SampleHero";
 
 const HomePage = () => {
   const [toggleSidebar, setToggleSidebar] = useState(false);
@@ -24,7 +25,7 @@ const HomePage = () => {
         {/* <!-- logo --> */}
         <div className="logo">
           <Link to={`/`}>
-            <span>P</span>
+            <span>D</span>
           </Link>
         </div>
 
@@ -44,17 +45,8 @@ const HomePage = () => {
 
         {/* <!-- Started socials --> */}
         <div className="social">
-          <a target="_blank" rel="noreferrer" href="https://dribbble.com/">
-            <span className="icon la la-dribbble"></span>
-          </a>
-          <a target="_blank" rel="noreferrer" href="https://facebook.com/">
-            <span className="icon la la-facebook"></span>
-          </a>
-          <a target="_blank" rel="noreferrer" href="https://github.com/">
+          <a target="_blank" rel="noreferrer" href="https://github.com/decentralizedcv/cv">
             <span className="icon la la-github"></span>
-          </a>
-          <a target="_blank" rel="noreferrer" href="https://stackoverflow.com/">
-            <span className="icon la la-stack-overflow"></span>
           </a>
         </div>
 
@@ -64,11 +56,10 @@ const HomePage = () => {
         </span>
       </TabList>
 
-      <ThemePanel />
       <div className="container">
 
         <TabPanel>
-          <Hero type="bgImage" />
+          <SampleHero type="bgImage" />
         </TabPanel>
         <TabPanel>
           <About />

@@ -67,7 +67,7 @@ const Header = () => {
           <a target="_blank" href="https://facebook.com/">
             <span className="icon la la-facebook"></span>
           </a>
-          <a target="_blank" href="https://github.com/">
+          <a target="_blank" rel="noreferrer" href="https://github.com/decentralizedcv/cv">
             <span className="icon la la-github"></span>
           </a>
           <a target="_blank" href="https://stackoverflow.com/">

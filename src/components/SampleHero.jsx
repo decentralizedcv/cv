@@ -3,15 +3,15 @@ import styled from "styled-components";
 import {Typewriter} from "react-simple-typewriter";
 import particleOption from "../data/particle-config.json";
 import Particles from "react-tsparticles";
-// import Bg from "../images/bg.jpg";
-import Bg from "../images/a.jpg";
+import Bg from "../images/bg.jpg";
+// import Bg from "../images/a.jpg";
 
 import video_1 from "../video/intro_1.mp4";
 import {overlayAnimation} from "../App";
 import Overlay from "./Overlay";
 import {Link} from "react-router-dom";
 
-const Hero = ({type = 'bgColor'}, props) => {
+const SampleHero = ({type = 'bgColor'}, props) => {
     // type { bgParticles, bgImage, bgvideo, bgColor, navbarLink }
     useEffect(() => {
         overlayAnimation();
@@ -65,7 +65,7 @@ const Hero = ({type = 'bgColor'}, props) => {
                         <div className="vertical-center">
                             {/* Started titles */}
                             <div className="title">
-                                <span>Decentralized </span> CV <span>On IPFS/Filecoin </span>
+                                <span>Patrick</span> Johansson
                             </div>
                             <div
                                 className="subtitle"
@@ -78,13 +78,13 @@ const Hero = ({type = 'bgColor'}, props) => {
                                 }}
                             >
                                 We are
-                                <span style={{color: "#fff"}}>
+                                <span style={{ color: "#fff" }}>
                   <Typewriter
                       words={[
-                          "web3's cv platform.",
-                          "decentralized.",
-                          "on IPFS/Filecoin.",
-                          "free",
+                          "web developer.",
+                          "blogger.",
+                          "freelancer.",
+                          "photographer.",
                       ]}
                       loop={5}
                       cursor
@@ -96,12 +96,6 @@ const Hero = ({type = 'bgColor'}, props) => {
                 </span>
                                 <span className="typed-title"></span>
                             </div>
-
-
-                            <div style={{marginTop: 64}} className="button">
-                                <Link to={"/sample"}> look our vc sample ->
-                                </Link>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -110,7 +104,7 @@ const Hero = ({type = 'bgColor'}, props) => {
     );
 };
 
-export default Hero;
+export default SampleHero;
 
 const HomeStyled = styled.div`
   .grid_anim {
