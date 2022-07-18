@@ -8,7 +8,7 @@ import Resume from "../components/Resume";
 // import Portfolio from "./Portfolio";
 import Blog from "../components/Blog";
 import Contact from "../components/Contact";
-import { overlayAnimation } from "../App";
+import {overlayAnimation} from "../OverlayAnimation";
 import menu from "../data/menu";
 
 const HomeVideoPage = () => {

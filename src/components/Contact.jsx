@@ -4,7 +4,7 @@ import { toast } from "react-toastify";
 
 import Map from "./Map";
 // import Map2 from "./Map2";
-import { overlayAnimation } from "../App";
+import {overlayAnimation} from "../OverlayAnimation";
 import Overlay from "./Overlay";
 
 const Contact = () => {

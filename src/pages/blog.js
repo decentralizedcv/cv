@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import ThemePanel from "../components/ThemePanel";
 import styled from "styled-components";
 import data from "../data/posts";
-import { overlayAnimation } from "../App";
+import {overlayAnimation} from "../OverlayAnimation";
 import Overlay from "../components/Overlay";
 import menu from "../data/menu";
 

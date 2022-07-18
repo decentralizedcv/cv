@@ -8,7 +8,7 @@ import Resume from "../components/Resume";
 import Blog from "../components/Blog";
 import Contact from "../components/Contact";
 import Work from "../components/Work";
-import { overlayAnimation } from "../App";
+import {overlayAnimation} from "../OverlayAnimation";
 import menu from "../data/menu";
 
 const HomeColorPage = () => {

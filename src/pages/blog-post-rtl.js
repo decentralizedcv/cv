@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Tab, Tabs, TabList } from "react-tabs";
 import { Link } from "react-router-dom";
 import ThemePanel from "../components/ThemePanel";
-import { overlayAnimation } from "../App";
+import {overlayAnimation} from "../OverlayAnimation";
 import Overlay from "../components/Overlay";
 import menu from "../data/menu";
 

@@ -7,7 +7,7 @@ import Bg from "../images/bg.jpg";
 // import Bg from "../images/a.jpg";
 
 import video_1 from "../video/intro_1.mp4";
-import {overlayAnimation} from "../App";
+import {overlayAnimation} from "../OverlayAnimation";
 import Overlay from "./Overlay";
 import {Link} from "react-router-dom";
 

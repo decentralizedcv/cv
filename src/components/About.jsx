@@ -4,7 +4,7 @@ import client_img_1 from "../images/clients/client_1.png";
 import client_img_2 from "../images/clients/client_2.png";
 import client_img_3 from "../images/clients/client_3.png";
 import client_img_4 from "../images/clients/client_4.png";
-import { overlayAnimation } from "../App";
+import {overlayAnimation} from "../OverlayAnimation";
 import Overlay from "./Overlay";
 
 const About = () => {

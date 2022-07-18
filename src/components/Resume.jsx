@@ -4,7 +4,7 @@ import gsap from "gsap";
 import image_profile_2 from "../images/profile2.jpg";
 import ScrollTrigger from "gsap/ScrollTrigger";
 import useOnScreen from "../hooks/useOnScreen";
-import { overlayAnimation } from "../App";
+import {overlayAnimation} from "../OverlayAnimation";
 import Overlay from "./Overlay";
 
 gsap.registerPlugin(ScrollTrigger);

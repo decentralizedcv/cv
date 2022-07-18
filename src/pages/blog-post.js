@@ -2,9 +2,9 @@ import React, { useState, useEffect } from "react";
 import { Tab, Tabs, TabList } from "react-tabs";
 import { Link } from "react-router-dom";
 import ThemePanel from "../components/ThemePanel";
-import { overlayAnimation } from "../App";
 import Overlay from "../components/Overlay";
 import menu from "../data/menu";
+import {overlayAnimation} from "../OverlayAnimation";
 
 const BlogPost = () => {
     const [toggleSidebar, setToggleSidebar] = useState(false);

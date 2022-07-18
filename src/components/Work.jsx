@@ -11,7 +11,7 @@ import works_img_5 from "../images/works/work5.jpg";
 import works_img_6 from "../images/works/work6.jpg";
 import works_img_7 from "../images/works/work7.jpg";
 import works_img_8 from "../images/works/work8.jpg";
-import { overlayAnimation } from "../App";
+import {overlayAnimation} from "../OverlayAnimation";
 import Overlay from "./Overlay";
 
 const Work = () => {

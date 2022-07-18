@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 import { Link } from "react-router-dom";
 import Hero from "./components/Hero";
-import { overlayAnimation } from "./App";
+import {overlayAnimation} from "./OverlayAnimation";
 
 const HomeIndex = () => {
   const [toggleSidebar, setToggleSidebar] = useState(false);

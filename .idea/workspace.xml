@@ -1,20 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80d68707-37d7-4142-8384-e531860b24de" name="Default Changelist" comment="edit README.md">
+    <list default="true" id="80d68707-37d7-4142-8384-e531860b24de" name="Default Changelist" comment="add sample cv pages">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HomeIndex.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeIndex.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Splash.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Splash.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/About.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Blog.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Blog.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Contact.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contact.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Hero.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Hero.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Resume.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Resume.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SampleHero.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SampleHero.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Work.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Work.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/blog-post-rtl.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/blog-post-rtl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/blog-post.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/blog-post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/blog-rtl.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/blog-rtl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/blog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home-bgcolor-rtl.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home-bgcolor-rtl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home-bgcolor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home-bgcolor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home-particles-rtl.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home-particles-rtl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home-rtl.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home-rtl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home-video-rtl.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home-video-rtl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home-video.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home-video.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,7 +49,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="last_opened_file_path" value="E:/CCNP" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -76,7 +96,9 @@
       <option name="presentableId" value="Default" />
       <updated>1656661193327</updated>
       <workItem from="1656661197583" duration="19000" />
-      <workItem from="1656661220374" duration="10696000" />
+      <workItem from="1656661220374" duration="11227000" />
+      <workItem from="1656765857352" duration="1068000" />
+      <workItem from="1658050411259" duration="9301000" />
     </task>
     <task id="LOCAL-00001" summary="edit README.md">
       <created>1656672546508</created>
@@ -92,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656672579108</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add sample cv pages">
+      <created>1656737751528</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656737751528</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,9 +137,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="edit README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit README.md" />
+    <MESSAGE value="add sample cv pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="add sample cv pages" />
   </component>
 </project>

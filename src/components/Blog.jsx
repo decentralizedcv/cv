@@ -2,7 +2,7 @@ import React, {useEffect} from "react";
 import profile_img_4 from "../images/profile4.jpg";
 import data  from "../data/posts";
 import { Link } from "react-router-dom";
-import { overlayAnimation } from "../App";
+import {overlayAnimation} from "../OverlayAnimation";
 import Overlay from "./Overlay";
 
 const Blog = ()=> {
